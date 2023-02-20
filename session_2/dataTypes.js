@@ -4,7 +4,7 @@ let string = 'claudia'
 let object = {
   name: 'claudia',
   age: 32,
-  city: 'seattle'
+  city: 'sea'
 }
 
 console.log(typeof object)
